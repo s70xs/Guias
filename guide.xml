@@ -3,8 +3,12 @@
   <channel id="Example">
     <display-name lang="en">Example</display-name>
   </channel>
-  <channel id="BAND">
-    <display-name lang="pt">BAND</display-name>
+  <channel id="NICKELODEON HD">
+    <display-name lang="pt">NICKELODEON HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
   <programme start="20190216000000 +0000" stop="20190216235900 +0000" channel="Example">
@@ -15,435 +19,2469 @@
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
   </programme>
-  <programme start="20190216001500 -0200" stop="20190216002000 -0200" channel="BAND">
-    <title lang="pt">Que Fim Levou? - Boletim</title>
-    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216002000 -0200" stop="20190216012000 -0200" channel="BAND">
-    <title lang="pt">Vídeos Incríveis</title>
-    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216012000 -0200" stop="20190216020000 -0200" channel="BAND">
-    <title lang="pt">Efeito Carbonaro</title>
-    <desc lang="pt">A atração mostra o ilusionista Michael Carbonaro pregando peças criativas e obtendo reações inesperadas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20190216020000 -0200" stop="20190216033000 -0200" channel="BAND">
-    <title lang="pt">Jogo Aberto - Reapresentação</title>
-    <desc lang="pt">Indisponível(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216033000 -0200" stop="20190216042000 -0200" channel="BAND">
-    <title lang="pt">Os Donos da Bola - Reapresentação</title>
-    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216042000 -0200" stop="20190216043500 -0200" channel="BAND">
-    <title lang="pt">Vídeonews</title>
-    <desc lang="pt">Revista diária com as notícias mais comentadas na cena cultural e artística, os principais assuntos das redes sociais, os bastidores da Band, curiosidades e vídeos da internet. Informação com descontração(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216043500 -0200" stop="20190216050000 -0200" channel="BAND">
-    <title lang="pt">Vídeos Incríveis</title>
-    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216050000 -0200" stop="20190216060000 -0200" channel="BAND">
-    <title lang="pt">+info</title>
-    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216060000 -0200" stop="20190216063000 -0200" channel="BAND">
-    <title lang="pt">AgroBand</title>
-    <desc lang="pt">Programa Local(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216063000 -0200" stop="20190216070000 -0200" channel="BAND">
-    <title lang="pt">Somos Agro</title>
-    <desc lang="pt">O programa valoriza o trabalho de quem planta e cria e ressalta a importância do agronegócio na vida do cidadão brasileiro. campo no presente e no futuro(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216070000 -0200" stop="20190216073000 -0200" channel="BAND">
-    <title lang="pt">Papo de Boleiro</title>
-    <desc lang="pt">Revista semanal sobre todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216073000 -0200" stop="20190216080000 -0200" channel="BAND">
-    <title lang="pt">Resenha</title>
-    <desc lang="pt">Um papo descontraído com grandes nomes do futebol brasileiro. Uma análise do atual panorama no mundo da chuteiras e muitas histórias(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216080000 -0200" stop="20190216083000 -0200" channel="BAND">
-    <title lang="pt">Gol: O Grande Momento do Futebol</title>
-    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216083000 -0200" stop="20190216090000 -0200" channel="BAND">
-    <title lang="pt">Gol: O Grande Momento do Futebol</title>
-    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216090000 -0200" stop="20190216093000 -0200" channel="BAND">
-    <title lang="pt">+info</title>
-    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216093000 -0200" stop="20190216100000 -0200" channel="BAND">
-    <title lang="pt">Giro Business</title>
-    <desc lang="pt">O programa tem como objetivo mostrar o mundo empresarial de uma forma acessível ao telespectador. A cada programa, entrevista com um nome de destaque, mostrando in loco como é a gestão de um líder profissional(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216100000 -0200" stop="20190216103000 -0200" channel="BAND">
-    <title lang="pt">Ponto a Ponto</title>
-    <desc lang="pt">Em debate os temas mais importantes da política e do setor público na atualidade(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216103000 -0200" stop="20190216110000 -0200" channel="BAND">
-    <title lang="pt">Capital Natural</title>
-    <desc lang="pt">Um debate que registra as mudanças que ocorrem na sociedade em direção ao desenvolvimento sustentável(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216110000 -0200" stop="20190216113000 -0200" channel="BAND">
-    <title lang="pt">Guia da Facu</title>
-    <desc lang="pt">Informação, conhecimento e prestação de serviço através de uma série de matérias, quadros e depoimentos que desvendam e simplificam o mercado de educação e trabalho(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216113000 -0200" stop="20190216114500 -0200" channel="BAND">
-    <title lang="pt">Verdade &amp; Vida</title>
-    <desc lang="pt">Um programa da Igreja Presbiteriana do Brasil dedicado à reflexão e à inspiração para a vida(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216114500 -0200" stop="20190216123000 -0200" channel="BAND">
-    <title lang="pt">Efeito Carbonaro</title>
-    <desc lang="pt">A atração mostra o ilusionista Michael Carbonaro pregando peças criativas e obtendo reações inesperadas(n)</desc>
-    <rating system="BR">
-      <value>9+</value>
-    </rating>
-  </programme>
-  <programme start="20190216123000 -0200" stop="20190216150000 -0200" channel="BAND">
-    <title lang="pt">Jogos das Estrelas: NBB Brasil x NBB Mundo</title>
-    <desc lang="pt">O principal torneio de basquete do Brasil(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216150000 -0200" stop="20190216175000 -0200" channel="BAND">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com prioridade para os temas do cotidiano(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216175000 -0200" stop="20190216182000 -0200" channel="BAND">
-    <title lang="pt">Brasil Urgente SP</title>
-    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216182000 -0200" stop="20190216192500 -0200" channel="BAND">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216192500 -0200" stop="20190216201000 -0200" channel="BAND">
-    <title lang="pt">Minha Vida</title>
-    <desc lang="pt">Ates aparece para se despedir da Bahar e pede desculpas. Efsun chega no trabalho da Secil e a amiga apresenta o rapaz, Necati é o homem. Sakine estapeia Seçil, por ter se encontrado com Necati(n)</desc>
+  <programme start="20190216000000 -0200" stop="20190216003000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Bella e Os Bulldogs: Esse é o meu bate triplo</title>
+    <desc lang="pt">A vida da popular líder de torcida Bella Dawson toma um rumo inesperado quando ela decide correr atrás dos seus sonhos e se tornar a nova quarterback do seu time da escola(n)</desc>
     <credits>
-      <director>Merve Girgin</director>
-      <actor>Ezgi Asaroblu</actor>
-      <actor>Ceren Moray</actor>
-      <actor>Kerem Cem</actor>
-      <actor>Oya Bazar</actor>
+      <director>Eric Dean Seaton</director>
+      <actor>Brec Bassinger</actor>
+      <actor>Buddy Handleson</actor>
+      <actor>Katchem Josef</actor>
+      <actor>Josef Ketchum</actor>
+      <actor>Lilimar</actor>
+      <actor>Jackie Radinsky</actor>
+      <actor>Haley Tju</actor>
     </credits>
-    <date>2014</date>
-    <episode-num system="onscreen">E99</episode-num>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216003000 -0200" stop="20190216010000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">iCarly: Saindo do ovo</title>
+    <desc lang="pt">Carly e Sam chocam ovos para a feira de Ciências. Mas os pintinhos nascem antes da hora e fogem da incubadora(n)</desc>
+    <credits>
+      <director>David Kendall</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <date>2008</date>
+    <episode-num system="onscreen">S1 E11</episode-num>
     <rating system="BR">
       <value>7+</value>
     </rating>
   </programme>
-  <programme start="20190216201000 -0200" stop="20190216210000 -0200" channel="BAND">
-    <title lang="pt">Igreja da Graça</title>
-    <desc lang="pt">Programa Religioso(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216210000 -0200" stop="20190216210500 -0200" channel="BAND">
-    <title lang="pt">Agenda dos Pastores</title>
-    <desc lang="pt">Programa Religioso(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216210500 -0200" stop="20190216213000 -0200" channel="BAND">
-    <title lang="pt">Vídeonews</title>
-    <desc lang="pt">Revista diária com as notícias mais comentadas na cena cultural e artística, os principais assuntos das redes sociais, os bastidores da Band, curiosidades e vídeos da internet. Informação com descontração(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190216213000 -0200" stop="20190216222000 -0200" channel="BAND">
-    <title lang="pt">Justiça Implacável</title>
-    <desc lang="pt">Elijah Kane é o líder de um grupo de agentes especiais da polícia, encarregado que tirar de circulação os principais criminosos de Seatle. Mesmo com métodos nem sempre usuais(n)</desc>
+  <programme start="20190216010000 -0200" stop="20190216013000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">A Família Hathaways: Agente secreto assombrado</title>
+    <desc lang="pt">Quando a classe de Louie tem um dia das profissões, ele inventa que Ray é um agente secreto, porque sente vergonha do pai não assustar ninguém(n)</desc>
     <credits>
-      <director>Wayne Rose</director>
-      <actor>Steven Seagal</actor>
-      <actor>Sarah Lind</actor>
+      <director>Trevor Kirschner</director>
+      <actor>Chico Benymon</actor>
+      <actor>Benjamin Flores Jr</actor>
+      <actor>Curtis Harris</actor>
+      <actor>Ginifer King</actor>
+      <actor>Amber Montana</actor>
     </credits>
-    <date>2011</date>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E21</episode-num>
     <rating system="BR">
-      <value>13+</value>
+      <value>7+</value>
     </rating>
   </programme>
-  <programme start="20190216222000 -0200" stop="20190217000000 -0300" channel="BAND">
-    <title lang="pt">Cine+ Reféns</title>
-    <desc lang="pt">Kyle e Sarah são casados e vivem em uma elegante e confortável casa ao lado da filha, Avery. A vida deles segue sem problemas, até a casa ser invadida e o trio ser mantido refém por criminosos(n)</desc>
+  <programme start="20190216013000 -0200" stop="20190216020000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Sam &amp; Cat: Piloto</title>
+    <desc lang="pt">Sam e Cat se encontram pela primeira vez quando uma situação inusitada as coloca na parte de trás de um caminhão de lixo em movimento. Depois de rapidamente se tornarem amigas e companheiras de quarto(n)</desc>
     <credits>
-      <director>Joel Schumacher</director>
-      <actor>Nicolas Cage</actor>
-      <actor>Nicole Kidman</actor>
-      <actor>Ben Mendelsohn</actor>
-      <actor>Liana Liberato</actor>
-      <actor>Jordana</actor>
-      <actor>David Maldonado</actor>
+      <director>Steve Hoefer</director>
+      <actor>Jennette McCurdy</actor>
+      <actor>Ariana Grande</actor>
+      <actor>Cameron Ocasio</actor>
+      <actor>Mayank Bhatter</actor>
+      <actor>Maree Cheatham</actor>
+      <actor>Zoe Considine</actor>
     </credits>
-    <date>2011</date>
+    <date>2013</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="BR">
-      <value>11+</value>
+      <value>7+</value>
     </rating>
   </programme>
-  <programme start="20190217003000 -0300" stop="20190217010000 -0300" channel="BAND">
-    <title lang="pt">Mini Doc. Bandsports</title>
-    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190217010000 -0300" stop="20190217030000 -0300" channel="BAND">
-    <title lang="pt">Baita Amigos</title>
-    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada)(n)</desc>
-    <rating system="BR">
-      <value>0+</value>
-    </rating>
-  </programme>
-  <programme start="20190217030000 -0300" stop="20190217040000 -0300" channel="BAND">
-    <title lang="pt">Bandsports News</title>
-    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+  <programme start="20190216020000 -0200" stop="20190216023000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">100 Coisas Para Fazer Antes Do High School: Conhecer seu Ídolo 1ª</title>
+    <desc lang="pt">Nossos amigos foram ao encontro de seus ídolos, mas quando os seus planos cuidadosamente definidos começam a se desvendar, eles percebem a importância da paciência e reconhecer os ídolos em sua vida cotidiana(n)</desc>
+    <credits>
+      <actor>Isabela Moner</actor>
+      <actor>Jaheem Toombs</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Brady Reiter</actor>
+      <actor>Christopher Neiman</actor>
+      <actor>Shyloh Oostwald</actor>
+      <actor>Drew Day</actor>
+    </credits>
+    <date>2015</date>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217040000 -0300" stop="20190217041500 -0300" channel="BAND">
-    <title lang="pt">Gol - O Grande Momento do Futebol</title>
-    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+  <programme start="20190216023000 -0200" stop="20190216030000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">iCarly: Saindo do ovo</title>
+    <desc lang="pt">Carly e Sam chocam ovos para a feira de Ciências. Mas os pintinhos nascem antes da hora e fogem da incubadora(n)</desc>
+    <credits>
+      <director>David Kendall</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <date>2008</date>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216030000 -0200" stop="20190216033000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">iCarly: Seguindo a professora chata</title>
+    <desc lang="pt">Carly decide fazer um programa mostrando o que professores chatos fazem fora da escola. Eles seguem uma das professoras, mas se dão mal(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Mindy Sterling</actor>
+      <actor>Samantha Aisling</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216033000 -0200" stop="20190216040000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Breadwinners: Funcionário do Mês / Enrolação 1ª</title>
+    <desc lang="pt">A vida do Buhdeuce está prestes a mudar para sempre quando SwaySway entregar um prêmio. SwaySway e Buhdeuce tem que cuidar de uma pilha de pratos sujos, antes que ela tome conta deles(n)</desc>
+    <credits>
+      <director>Casey Leonard</director>
+      <director>Chris Martin</director>
+      <actor>Vozes de Robbie Daymond</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Reid Scott</actor>
+      <actor>Aziz Ansari</actor>
+      <actor>Alexander Polinsky</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216040000 -0200" stop="20190216043000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E22</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217041500 -0300" stop="20190217043000 -0300" channel="BAND">
-    <title lang="pt">Sacada do Saretta</title>
-    <desc lang="pt">Programa semanal com Flavio Saretta, sempre com um assunto diferente(n)</desc>
+  <programme start="20190216043000 -0200" stop="20190216050000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Os Padrinhos Mágicos: Peixe Suspeito</title>
+    <desc lang="pt">Timmy explora as profundezas do mar, ao lado de Cosmo e Wanda. Ele e Wanda são bem recebidos, mas Cosmo não é. O mistério de Atlântida é revelado(n)</desc>
+    <credits>
+      <actor>Vozes de Susan Blakeslee</actor>
+      <actor>Tara Strong</actor>
+      <actor>Daran Norris</actor>
+      <actor>Ibrahim Muhammad</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Jim Ward</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Carlos Alazraqui</actor>
+      <actor>Frankie Muniz</actor>
+    </credits>
+    <date>2005</date>
+    <episode-num system="onscreen">S1 E74</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217043000 -0300" stop="20190217050000 -0300" channel="BAND">
-    <title lang="pt">Poker Night</title>
-    <desc lang="pt">Entrevistas e matérias sobre o estilo de vida dos jogadores de poker e um giro com as notícias do poker brasileiro e mundial(n)</desc>
+  <programme start="20190216050000 -0200" stop="20190216053000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Patrulha Canina: Os filhotes salvam o jogo de futebol</title>
+    <desc lang="pt">Quando o prefeito Humdinger Desafia o time de futebol de Adventure Bay, Ryder e a Patrulha Canina Paw Patrol são chamados para jogar(n)</desc>
+    <credits>
+      <actor>Vozes de Alex Thorne</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Peter Cugno</actor>
+      <actor>Max Calinescu</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Berkley Silverman</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E3</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217050000 -0300" stop="20190217070000 -0300" channel="BAND">
-    <title lang="pt">Bandsports News</title>
-    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+  <programme start="20190216053000 -0200" stop="20190216060000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">As Aventuras de Kid Danger: Charlo-Polvo / Problemas em Tropikini 1ª</title>
+    <desc lang="pt">Schwoz acidentalmente transforma Charlotte em metade menina, metade polvo. Capitão Man e Kid tentam desfazer a confusão,mas antes precisam pegá-la(n)</desc>
+    <credits>
+      <director>Damil Bryant</director>
+      <director>Donovan Cook</director>
+      <actor>Vozes de Jace Norman</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Ben Giroux</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216060000 -0200" stop="20190216063000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E22</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217070000 -0300" stop="20190217071500 -0300" channel="BAND">
-    <title lang="pt">Gol - O Grande Momento do Futebol</title>
-    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+  <programme start="20190216063000 -0200" stop="20190216070000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Você já se perguntou como é crescer em uma família grande? The Loud House é uma serie de animação sobre a vida caótica de crescer em uma enorme casa(n)</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Carlos PenaVega</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E24</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217071500 -0300" stop="20190217073000 -0300" channel="BAND">
-    <title lang="pt">Sacada do Saretta</title>
-    <desc lang="pt">Programa semanal com Flavio Saretta, sempre com um assunto diferente(n)</desc>
+  <programme start="20190216070000 -0200" stop="20190216073000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn</title>
+    <desc lang="pt">A comédia acompanha a vida de quatro irmãos que pouco tem a ver entre si, tirando o fato de serem quadrigêmeos(n)</desc>
+    <credits>
+      <director>Brian Stepanek</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E14</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217073000 -0300" stop="20190217080000 -0300" channel="BAND">
-    <title lang="pt">Papo de Boleiro</title>
-    <desc lang="pt">Fernando Fernandes bate um papo descontraído com jogadores de futebol do passado e da atualidade trazendo à tona histórias da carreira, vida pessoal e curiosidades(n)</desc>
+  <programme start="20190216073000 -0200" stop="20190216080000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">The Thundermans: Superenganadores</title>
+    <desc lang="pt">Max e Phoebe usam seus poderes para dar uma injeção de confiança a um amigo, mas essa atitude acaba se invertendo quando ele começa a pensar que tem superpoderes de verdade(n)</desc>
+    <credits>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216080000 -0200" stop="20190216083000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Russ Reinsel</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216083000 -0200" stop="20190216090000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Esquadrão de Cavaleiros: A Cauda Do Cavaleiro</title>
+    <desc lang="pt">A Ciara confia ao Arc o Anel das Fadas. Ele acaba se transformando em uma criatura horrível ao tentar usar os poderes da peça. Desesperados para desfazer o feitiço, Ciara e Arc procuram a ajuda da Rainha das Fadas(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Lexi DiBenedetto</actor>
+      <actor>Amarr M. Wooten</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Savannah May</actor>
+      <actor>Daniella Perkins</actor>
+      <actor>Brittany Ross</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216090000 -0200" stop="20190216093000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Game Shakers: Babe Ama Danger</title>
+    <desc lang="pt">Babe tenta planejar o encontro perfeito quando descobre que Henry Hart vai a Nova York visitá-la(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216093000 -0200" stop="20190216100000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Quando Babe e Kenzie criaram Sky Whale para um projeto de ciências do sétimo ano, eles estavam esperando por uma nota na média, na melhor das hipóteses. Eles nunca esperaram que ele se tornaria o jogo mais popular do ano(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216100000 -0200" stop="20190216102800 -0200" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Você já se perguntou como é crescer em uma família grande? The Loud House é uma serie de animação sobre a vida caótica de crescer em uma enorme casa(n)</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Collin Dean</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Fred Willard</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Veronica Cartwright</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E5</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217080000 -0300" stop="20190217100000 -0300" channel="BAND">
-    <title lang="pt">Baita Amigos</title>
-    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada)(n)</desc>
+  <programme start="20190216102800 -0200" stop="20190216105400 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Butterbean's Cafe</title>
+    <desc lang="pt">Vamos cozinhar com Butterbean e suas amigas fadas enquanto elas servem histórias mágicas infundidas com amizade e trabalho em equipe no Butterbean's Café(n)</desc>
+    <credits>
+      <actor>Vozes de Margaret Ying Drake</actor>
+      <actor>Gabriella Pizzolo</actor>
+      <actor>Olivia Grace Manning</actor>
+      <actor>Kirrilee Berger</actor>
+      <actor>Koda Gursoy</actor>
+    </credits>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217100000 -0300" stop="20190217110000 -0300" channel="BAND">
-    <title lang="pt">Doc. Bandsports</title>
-    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
+  <programme start="20190216105400 -0200" stop="20190216111900 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Top Wing</title>
+    <desc lang="pt">Está na hora de nossos amigos honrarem suas asas Os mais novos cadetes da Academia Top Wing - Swift, Penny, Rod e Brody - vão aprender a pilotar seus veículos e se tornarão a melhor equipe de resgates que a Ilha Big Swirl jamais(n)</desc>
+    <credits>
+      <director>Jisoo Han</director>
+      <director>Sung-ho Hong</director>
+      <actor>Vozes de Lucas Kalechstein</actor>
+      <actor>Abigail Oliver</actor>
+      <actor>Ethan Pugiotto</actor>
+      <actor>Jonah Wineberg</actor>
+      <actor>Tyler Barish</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217110000 -0300" stop="20190217113000 -0300" channel="BAND">
-    <title lang="pt">Papo de Boleiro</title>
-    <desc lang="pt">Fernando Fernandes bate um papo descontraído com jogadores de futebol do passado e da atualidade trazendo à tona histórias da carreira, vida pessoal e curiosidades(n)</desc>
+  <programme start="20190216111900 -0200" stop="20190216115600 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia: Beto, O Boto 1ª Temp.</title>
+    <desc lang="pt">Dessa vez, quem precisa de ajuda é Beto, um jovem boto cor-de-rosa, que resolveu, antes da idade, enfrentar a Pororoca, o dramático e perigoso encontro das água do rio e do mar(n)</desc>
+    <date>2018</date>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217113000 -0300" stop="20190217120000 -0300" channel="BAND">
-    <title lang="pt">Gol - O Grande Momento do Futebol</title>
-    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+  <programme start="20190216115600 -0200" stop="20190216122100 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada: Retorno do Mancha</title>
+    <desc lang="pt">Quando a amoeba de estimação do Plankton, Mancha, tem filhotes, ele resolve usa-los em outro plano malvado(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E17</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217120000 -0300" stop="20190217130000 -0300" channel="BAND">
-    <title lang="pt">Vila Bandsports</title>
-    <desc lang="pt">Programa para falar sobre todos os esportes. Elia Junior entrevista grandes nomes do esporte brasileiro. Natação, Ginástica, Judo, Atletismo, enfim, modalidades em que o Brasil é rico em talentos(n)</desc>
+  <programme start="20190216122100 -0200" stop="20190216124600 -0200" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House: Medo de concurso / Quebrando o pai</title>
+    <desc lang="pt">Quando a Lola participa de um concurso de beleza regional, fica com medo de perder pela primeira fez. O pai pede para o senhor Grouse cuidar da Lily enquanto vai a um festival, mas as coisas logo começam a dar errado(n)</desc>
+    <credits>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Liliana Mumy</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E12</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217130000 -0300" stop="20190217150000 -0300" channel="BAND">
-    <title lang="pt">Baita Amigos</title>
-    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada)(n)</desc>
+  <programme start="20190216124600 -0200" stop="20190216131100 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Breadwinners: Ira do Deus da pizza</title>
+    <desc lang="pt">Os malvados Entregadores de pizza têm um chefe ainda mais malvado, então os rapazes resolvem ajuda-los(n)</desc>
+    <credits>
+      <actor>Vozes de Robbie Daymond</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Tara Strong</actor>
+      <actor>Vanessa Marshall</actor>
+      <actor>Michael-Leon Wooley</actor>
+      <actor>John DiMaggio</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216131100 -0200" stop="20190216133600 -0200" channel="NICKELODEON HD">
+    <title lang="pt">O Despertar Das Tartarugas Ninjas</title>
+    <desc lang="pt">As Tartarugas Ninja estão de volta Embarque em mais aventuras com Raphael, Leonardo, Donatello e Michelangelo no submundo de Nova York(n)</desc>
+    <credits>
+      <director>Brendan Clogher</director>
+      <director>Sebastian Montes</director>
+      <actor>Vozes de Josh Brener</actor>
+      <actor>Brandon Mychal Smith</actor>
+      <actor>Omar Benson Miller</actor>
+      <actor>Ben Schwartz</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216133600 -0200" stop="20190216140000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">O Despertar Das Tartarugas Ninjas</title>
+    <desc lang="pt">As Tartarugas Ninja estão de volta Embarque em mais aventuras com Raphael, Leonardo, Donatello e Michelangelo no submundo de Nova York(n)</desc>
+    <credits>
+      <director>Jamie Vickers</director>
+      <director>Alan Wan</director>
+      <actor>Vozes de Josh Brener</actor>
+      <actor>Brandon Mychal Smith</actor>
+      <actor>Omar Benson Miller</actor>
+      <actor>Ben Schwartz</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216140000 -0200" stop="20190216143000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger: O Perigo Começa - Parte 2</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Gianna Altieri</actor>
+      <actor>Jill Benjamin</actor>
+      <actor>Jace Norman</actor>
+      <actor>Duncan Bravo</actor>
+      <actor>Hawk Walts</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216143000 -0200" stop="20190216150000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger: O Perigo Começa - Parte 2</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Gianna Altieri</actor>
+      <actor>Jill Benjamin</actor>
+      <actor>Jace Norman</actor>
+      <actor>Duncan Bravo</actor>
+      <actor>Hawk Walts</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216150000 -0200" stop="20190216153000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Nicole Oliver</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216153000 -0200" stop="20190216160000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger: Ação no Saguão</title>
+    <desc lang="pt">Quando Charlotte é desafiada a lutar na escola, Capitão Man e Kid Danger tentam ajudar Charlotte a se defender(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216160000 -0200" stop="20190216163000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216163000 -0200" stop="20190216170000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">As Aventuras de Kid Danger: Bebês Clones / Aranhas Voadoras 1ª</title>
+    <desc lang="pt">Achando que ser Capitão Man é trabalho demais para uma pessoa só, Ray e Schowz criam o plano perfeito: clonar Ray(n)</desc>
+    <credits>
+      <director>Damil Bryant</director>
+      <director>Ashley J. Long</director>
+      <actor>Vozes de Jace Norman</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Ben Giroux</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216170000 -0200" stop="20190216173000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger: Henry Indestrutível, Parte 1</title>
+    <desc lang="pt">Quando Kid Danger quase se fere gravemente em uma missão, Henry decide passar pelo Densificador e se tornar indestrutível como o Capitão Man. Mas as coisas não saem bem como o Henry gostaria(n)</desc>
+    <credits>
+      <director>Nathan Kress</director>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216173000 -0200" stop="20190216180000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger: Henry Indestrutível, Parte 2</title>
+    <desc lang="pt">Quando Henry descobre um inesperado efeito collateral de ter passado pelo densificador, ele precisa esconder o efeito collateral de sua família no jantar, enquanto o turma trabalha para ajudar Henry a voltar ao normal(n)</desc>
+    <credits>
+      <director>Russ Reinsel</director>
+      <actor>Vozes de Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>Angelica Salek</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216180000 -0200" stop="20190216183000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Star Falls: O Artista Misterioso</title>
+    <desc lang="pt">Phoenix descobre que há um novo e empolgante artista na cidade e começa a criar suas próprias obras pra chamar a atenção dele(n)</desc>
+    <credits>
+      <actor>Steve Wright</actor>
+      <actor>Don Mccutcheon</actor>
+      <actor>Mars Horodyski</actor>
+      <actor>Stefan Scain</actor>
+      <actor>Elena V. Wolfe</actor>
+      <actor>Dion Johnstone</actor>
+      <actor>Tomaso Sanelli</actor>
+    </credits>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216183000 -0200" stop="20190216190000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Game Shakers: Babe Ama Danger</title>
+    <desc lang="pt">Babe tenta planejar o encontro perfeito quando descobre que Henry Hart vai a Nova York visitá-la(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216190000 -0200" stop="20190216193000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Quando Babe e Kenzie criaram Sky Whale para um projeto de ciências do sétimo ano, eles estavam esperando por uma nota na média, na melhor das hipóteses. Eles nunca esperaram que ele se tornaria o jogo mais popular do ano(n)</desc>
+    <credits>
+      <director>David Kendall</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216193000 -0200" stop="20190216200000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">The Thundermans</title>
+    <desc lang="pt">O que é mais impressionante do que um super-herói? Uma família inteira deles Conheça os Thundermans, uma família não tão comum, cuja preocupação número 1 é manter seus poderes de super-humanos em segredo(n)</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216200000 -0200" stop="20190216203000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">The Thundermans</title>
+    <desc lang="pt">O que é mais impressionante do que um super-herói? Uma família inteira deles Conheça os Thundermans, uma família não tão comum, cuja preocupação número 1 é manter seus poderes de super-humanos em segredo(n)</desc>
+    <credits>
+      <director>Jonathan Judge</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E27</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216203000 -0200" stop="20190216210000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn: Yoco</title>
+    <desc lang="pt">Os Harpers compram um novo aparelho para melhorar a vida em casa. Mas quando os quadrigêmeos ficam sozinhos com o equipamento, eles exageram nas coisas e precisam arrumar a bagunça que fizeram antes que Tom e Anne voltem(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Kari Wahlgren(voice)</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E24</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217150000 -0300" stop="20190217160000 -0300" channel="BAND">
-    <title lang="pt">Doc. Bandsports</title>
-    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
+  <programme start="20190216210000 -0200" stop="20190216213000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn: Yoco</title>
+    <desc lang="pt">Os Harpers compram um novo aparelho para melhorar a vida em casa. Mas quando os quadrigêmeos ficam sozinhos com o equipamento, eles exageram nas coisas e precisam arrumar a bagunça que fizeram antes que Tom e Anne voltem(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Kari Wahlgren(voice)</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E24</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217160000 -0300" stop="20190217163000 -0300" channel="BAND">
-    <title lang="pt">Papo de Boleiro</title>
-    <desc lang="pt">Fernando Fernandes bate um papo descontraído com jogadores de futebol do passado e da atualidade trazendo à tona histórias da carreira, vida pessoal e curiosidades(n)</desc>
+  <programme start="20190216213000 -0200" stop="20190216220000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216220000 -0200" stop="20190216223000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216223000 -0200" stop="20190216230000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada: Retorno do Mancha</title>
+    <desc lang="pt">Quando a amoeba de estimação do Plankton, Mancha, tem filhotes, ele resolve usa-los em outro plano malvado(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E17</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217163000 -0300" stop="20190217164500 -0300" channel="BAND">
-    <title lang="pt">Gol - O Grande Momento do Futebol</title>
-    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+  <programme start="20190216230000 -0200" stop="20190216233000 -0200" channel="NICKELODEON HD">
+    <title lang="pt">Sam &amp; Cat: Por Trás Das Câmeras</title>
+    <desc lang="pt">Jennette, Ariana, Cameron, Maree e Zoran estão na hora do almoço das gravações de Samu0026 Cat e só têm uma hora para voltarem para os estúdios. Eles são comicamente interrompidos por fãs que os reconhecem do programa(n)</desc>
+    <credits>
+      <actor>Jennette McCurdy</actor>
+      <actor>Ariana Grande</actor>
+      <actor>Cameron Ocasio</actor>
+      <actor>Jake Brennan</actor>
+      <actor>Maree Cheatham</actor>
+      <actor>Jake Elliott</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216233000 -0200" stop="20190217000000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Russ Reinsel</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217003000 -0300" stop="20190217010000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">iCarly: Quero o recorde mundial</title>
+    <desc lang="pt">Carly, Sam e Freddie tentam quebrar o recorde mundial pelo mais longo e contínuo programa. Para isso, iCarly terá de ficar no ar por mais de 24 horas seguidas(n)</desc>
+    <credits>
+      <director>Roger Christiansen</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Alex Chansky</actor>
+      <actor>Rick Chew</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217010000 -0300" stop="20190217013000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">A Família Hathaways: Boliche Assombrado</title>
+    <desc lang="pt">O amigo de Miles, James, diz que sua família vai se mudar porque o boliche que tem está assombrado. Miles e Taylor decidem acabar com a assombração do lugar para James não se mudar(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Chico Benymon</actor>
+      <actor>Benjamin Flores Jr</actor>
+      <actor>Curtis Harris</actor>
+      <actor>Ginifer King</actor>
+      <actor>Amber Montana</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217013000 -0300" stop="20190217020000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Sam &amp; Cat: Pirralhas Britânicas</title>
+    <desc lang="pt">Sam e Cat tornam-se babás de duas meninas britânicas que aparentam ser educadas. Sam busca uma tentativa de cumprir a exigência de serviços à comunidade para sua escola online(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Jennette McCurdy</actor>
+      <actor>Ariana Grande</actor>
+      <actor>Cameron Ocasio</actor>
+      <actor>Matthew Brenher</actor>
+      <actor>Sophia Grace Brownlee</actor>
+      <actor>Maree Cheatham</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217020000 -0300" stop="20190217023000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">100 Coisas Para Fazer Antes Do High School: Mudar o visual para ver o que</title>
+    <desc lang="pt">CJ e os meninos decidem mudar de aparência e experimentar novos visuais. Eles então percebem que há muito poder nas roupas que vestem, e que não se pode julgar um livro pela capa(n)</desc>
+    <credits>
+      <actor>Isabela Moner</actor>
+      <actor>Jaheem Toombs</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Brady Reiter</actor>
+    </credits>
+    <date>2015</date>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217164500 -0300" stop="20190217170000 -0300" channel="BAND">
-    <title lang="pt">Sacada do Saretta</title>
-    <desc lang="pt">Programa semanal com Flavio Saretta, sempre com um assunto diferente(n)</desc>
+  <programme start="20190217023000 -0300" stop="20190217030000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">iCarly: Quero o recorde mundial</title>
+    <desc lang="pt">Carly, Sam e Freddie tentam quebrar o recorde mundial pelo mais longo e contínuo programa. Para isso, iCarly terá de ficar no ar por mais de 24 horas seguidas(n)</desc>
+    <credits>
+      <director>Roger Christiansen</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Alex Chansky</actor>
+      <actor>Rick Chew</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217030000 -0300" stop="20190217033000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">iCarly: Seguindo a professora chata</title>
+    <desc lang="pt">Carly decide fazer um programa mostrando o que professores chatos fazem fora da escola. Eles seguem uma das professoras, mas se dão mal(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Mindy Sterling</actor>
+      <actor>Samantha Aisling</actor>
+    </credits>
+    <date>2007</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217033000 -0300" stop="20190217040000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Breadwinners: Foguete com Problemas / O corajoso e o Mofo</title>
+    <desc lang="pt">Coloquem os cintos, patos. O furgão foguete está prestes a ganhar algumas doces modificações de uma ótima mecânica e amiga, Ketta. O mofo ataca as minas de pão, e os únicos que podem revidar são verdadeiros entregadores(n)</desc>
+    <credits>
+      <director>Casey Leonard</director>
+      <director>Dave Stone</director>
+      <actor>Vozes de Robbie Daymond</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>S. Scott Bullock</actor>
+      <actor>Kari Wahlgren</actor>
+      <actor>David Blue</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217040000 -0300" stop="20190217043000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E20</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217170000 -0300" stop="20190217180000 -0300" channel="BAND">
-    <title lang="pt">Bandsports News</title>
-    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+  <programme start="20190217043000 -0300" stop="20190217050000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Os Padrinhos Mágicos: Dois bebês e meio</title>
+    <desc lang="pt">Foop e Poof precisam tomar conta de um ovo para um trabalho da escola. Foop o quebra e o troca por um ovo perigoso(n)</desc>
+    <credits>
+      <actor>Vozes de Susan Blakeslee</actor>
+      <actor>Tara Strong</actor>
+      <actor>Daran Norris</actor>
+      <actor>Carlos Alazraqui</actor>
+    </credits>
+    <episode-num system="onscreen">S1 E33</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217180000 -0300" stop="20190217190000 -0300" channel="BAND">
-    <title lang="pt">PBR - Bull Riders</title>
-    <desc lang="pt">Competições internacionais de montaria em touros(n)</desc>
+  <programme start="20190217050000 -0300" stop="20190217053000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House: O Querido Lugar</title>
+    <desc lang="pt">Lincoln elebora um plano para conseguir o melhor lugar no carro para uma longa viagem de família(n)</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217190000 -0300" stop="20190217200000 -0300" channel="BAND">
-    <title lang="pt">Vila Bandsports</title>
-    <desc lang="pt">Programa para falar sobre todos os esportes. Elia Junior entrevista grandes nomes do esporte brasileiro. Natação, Ginástica, Judo, Atletismo, enfim, modalidades em que o Brasil é rico em talentos(n)</desc>
+  <programme start="20190217053000 -0300" stop="20190217060000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Você já se perguntou como é crescer em uma família grande? The Loud House é uma serie de animação sobre a vida caótica de crescer em uma enorme casa(n)</desc>
+    <credits>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Liliana Mumy</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E10</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217200000 -0300" stop="20190217210000 -0300" channel="BAND">
-    <title lang="pt">Bandsports News</title>
-    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+  <programme start="20190217060000 -0300" stop="20190217063000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E21</episode-num>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217210000 -0300" stop="20190217230000 -0300" channel="BAND">
-    <title lang="pt">NBB: Jogo das Estrelas</title>
+  <programme start="20190217063000 -0300" stop="20190217070000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217070000 -0300" stop="20190217073000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn</title>
+    <desc lang="pt">A comédia acompanha a vida de quatro irmãos que pouco tem a ver entre si, tirando o fato de serem quadrigêmeos(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217073000 -0300" stop="20190217080000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn: Yoco</title>
+    <desc lang="pt">Os Harpers compram um novo aparelho para melhorar a vida em casa. Mas quando os quadrigêmeos ficam sozinhos com o equipamento, eles exageram nas coisas e precisam arrumar a bagunça que fizeram antes que Tom e Anne voltem(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Kari Wahlgren(voice)</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217080000 -0300" stop="20190217083000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger: Gripado e Espionado</title>
+    <desc lang="pt">Pensando que Henry não está falando a verdade sobre estar doente, Ray planta câmeras e microfones na casa de Henry para desmascará-lo(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217083000 -0300" stop="20190217090000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Russ Reinsel</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217090000 -0300" stop="20190217093000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada: Descobrindo Atlantida - Parte 1 1ª</title>
+    <desc lang="pt">Quando Bob Esponja e Patrick acham o segundo pedaço do amuleto Atlantiano a turma toda embarca em uma aventura na antiga cidade de Atlantis(n)</desc>
+    <credits>
+      <director>Aaron Springer</director>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Carolyn Lawrence</actor>
+      <actor>Mr. Lawrence</actor>
+      <actor>David Bowie</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217093000 -0300" stop="20190217100000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada: Descobrindo Atlantida - Parte 2 1ª</title>
+    <desc lang="pt">Quando Bob Esponja e Patrick acham o segundo pedaço do amuleto Atlantiano a turma toda embarca em uma aventura na antiga cidade de Atlantis(n)</desc>
+    <credits>
+      <director>Aaron Springer</director>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Carolyn Lawrence</actor>
+      <actor>Mr. Lawrence</actor>
+      <actor>David Bowie</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217100000 -0300" stop="20190217103000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House: Música muito alta</title>
+    <desc lang="pt">Na esperança de vencer um concurso de música, a Luna fica dividida entre cantar uma música que faça o estilo dela ou tentar criar alguma coisa que o mundo todo ame(n)</desc>
+    <credits>
+      <director>Kyle Marshall</director>
+      <actor>Vozes de Collin Dean</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Jessica DiCicco</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Jill Talley</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Liliana Mumy</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217103000 -0300" stop="20190217110000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Você já se perguntou como é crescer em uma família grande? The Loud House é uma serie de animação sobre a vida caótica de crescer em uma enorme casa(n)</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Collin Dean</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Fred Willard</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Veronica Cartwright</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217110000 -0300" stop="20190217113000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Game Shakers: Babe Ama Danger</title>
+    <desc lang="pt">Babe tenta planejar o encontro perfeito quando descobre que Henry Hart vai a Nova York visitá-la(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217113000 -0300" stop="20190217120000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Game Shakers</title>
+    <desc lang="pt">Quando Babe e Kenzie criaram Sky Whale para um projeto de ciências do sétimo ano, eles estavam esperando por uma nota na média, na melhor das hipóteses. Eles nunca esperaram que ele se tornaria o jogo mais popular do ano(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Thomas Kuc</actor>
+      <actor>Cree Cicchino</actor>
+      <actor>Madisyn Shipman</actor>
+      <actor>Benjamin Flores Jr</actor>
+      <actor>Bubba Ganter</actor>
+      <actor>Kel Mitchell</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217120000 -0300" stop="20190217123000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Thundermans</title>
+    <desc lang="pt">O que é mais impressionante do que um super-herói? Uma família inteira deles Conheça os Thundermans, uma família não tão comum, cuja preocupação número 1 é manter seus poderes de super-humanos em segredo(n)</desc>
+    <credits>
+      <director>Jonathan Judge</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E27</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217123000 -0300" stop="20190217130000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Thundermans</title>
+    <desc lang="pt">O que é mais impressionante do que um super-herói? Uma família inteira deles Conheça os Thundermans, uma família não tão comum, cuja preocupação número 1 é manter seus poderes de super-humanos em segredo(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E28</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217130000 -0300" stop="20190217133000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Esquadrão de Cavaleiros: Essa Noite, Dois Cavaleiros</title>
+    <desc lang="pt">Arc e Ciara não param de competir um com o outro, então, o Sir Gareth os obriga a usar o Bracelete da Amizade. Porém, a irmã da Ciara está voltando da batalha(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Lexi DiBenedetto</actor>
+      <actor>Amarr M. Wooten</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Savannah May</actor>
+      <actor>Daniella Perkins</actor>
+      <actor>Kelly Perine</actor>
+      <actor>Emmy Buckner</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217133000 -0300" stop="20190217140000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Esquadrão de Cavaleiros: As Pequenas Mentiras de Um Cavaleiro 1ª</title>
+    <desc lang="pt">Preocupada que as obrigações reais estejam levando-a para longe de Prudy, Ciara dá um jeito de Prudy se tornar amiga da princesa. Mas quando Prudy começa a passar tempo demais com a princesa, Ciara sente ciúmes(n)</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <director>Jody Margolin Hahn</director>
+      <actor>Lexi DiBenedetto</actor>
+      <actor>Amarr M. Wooten</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Savannah May</actor>
+      <actor>Daniella Perkins</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217140000 -0300" stop="20190217143000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">100 Coisas Para Fazer Antes Do High School: Sobreviver ao Ataque de um</title>
+    <desc lang="pt">Quando CJ e seus amigos se veem sozinhos à noite em casa, eles descobrem o desafio de cuidarem de si mesmos e descobrem que ter a mãe e o pai por perto não é tão ruim, afinal(n)</desc>
+    <credits>
+      <actor>Isabela Moner</actor>
+      <actor>Jaheem Toombs</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Brady Reiter</actor>
+      <actor>Christopher Neiman</actor>
+      <actor>Shyloh Oostwald</actor>
+      <actor>Drew Day</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217143000 -0300" stop="20190217150000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">100 Coisas Para Fazer Antes Do High School: Adotar um bebê de farinha</title>
+    <desc lang="pt">CJ acredita que é responsável o suficiente para ter um bichinho de estimação, mas antes que possa ganhar um, sua mãe a desafia a adotar um bebê de farinha para provar que ela pode cuidar de uma criatura viva(n)</desc>
+    <credits>
+      <director>Savage Steve Holland</director>
+      <actor>Isabela Moner</actor>
+      <actor>Jaheem Toombs</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Brady Reiter</actor>
+      <actor>Claire Carmouche</actor>
+      <actor>Raajeev Aggerwhil</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217150000 -0300" stop="20190217153000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Você já se perguntou como é crescer em uma família grande? The Loud House é uma serie de animação sobre a vida caótica de crescer em uma enorme casa(n)</desc>
+    <credits>
+      <director>Chris savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Collin Dean</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Fred Willard</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Veronica Cartwright</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217153000 -0300" stop="20190217160000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Loud House</title>
+    <desc lang="pt">Você já se perguntou como é crescer em uma família grande? The Loud House é uma serie de animação sobre a vida caótica de crescer em uma enorme casa(n)</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <actor>Vozes de Jessica DiCicco</actor>
+      <actor>Nika Futterman</actor>
+      <actor>Grey Griffin</actor>
+      <actor>Caleel Harris</actor>
+      <actor>Lara Jill Miller</actor>
+      <actor>Catherine Taber</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217160000 -0300" stop="20190217163000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217163000 -0300" stop="20190217170000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+    <desc lang="pt">Bob Esponja é uma esponja do mar que vive na Fenda do Bikini e tem um talento incrível para se meter em confusões. Junto de seu amigo Patrick Estrela, Bob vive aventuras pra lá de malucas(n)</desc>
+    <credits>
+      <actor>Vozes de Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Mary Jo Catlett</actor>
+    </credits>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217170000 -0300" stop="20190217173000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">As Aventuras de Kid Danger: Charlo-Polvo / Problemas em Tropikini 1ª</title>
+    <desc lang="pt">Schwoz acidentalmente transforma Charlotte em metade menina, metade polvo. Capitão Man e Kid tentam desfazer a confusão,mas antes precisam pegá-la(n)</desc>
+    <credits>
+      <director>Damil Bryant</director>
+      <director>Donovan Cook</director>
+      <actor>Vozes de Jace Norman</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Ben Giroux</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217173000 -0300" stop="20190217180000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">As Aventuras de Kid Danger: Bebês Clones / Aranhas Voadoras 1ª</title>
+    <desc lang="pt">Achando que ser Capitão Man é trabalho demais para uma pessoa só, Ray e Schowz criam o plano perfeito: clonar Ray(n)</desc>
+    <credits>
+      <director>Damil Bryant</director>
+      <director>Ashley J. Long</director>
+      <actor>Vozes de Jace Norman</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Ben Giroux</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217180000 -0300" stop="20190217183000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Star Falls: O Piquenique da Família</title>
+    <desc lang="pt">Quando chega o dia do piquenique familiar anual de Star Falls, Sophia e Beth se empolgam em competir como os Miller-Brooks. Com a ajuda de Craig e Diamond elas esperam vencer um grande oponente: a família King(n)</desc>
+    <credits>
+      <actor>Steve Wright</actor>
+      <actor>Don Mccutcheon</actor>
+      <actor>Mars Horodyski</actor>
+      <actor>Stefan Scain</actor>
+      <actor>Elena V. Wolfe</actor>
+      <actor>Dion Johnstone</actor>
+      <actor>Tomaso Sanelli</actor>
+    </credits>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217183000 -0300" stop="20190217190000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Russ Reinsel</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Michael D. Cohen</actor>
+      <actor>Jace Norman</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217190000 -0300" stop="20190217192800 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn</title>
+    <desc lang="pt">A comédia acompanha a vida de quatro irmãos que pouco tem a ver entre si, tirando o fato de serem quadrigêmeos(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S3 E23</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217192800 -0300" stop="20190217195300 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Nicky, Ricky, Dicky &amp; Dawn: Nicky, Ricky, Dicky e BeyDawncé 4ª</title>
+    <desc lang="pt">No colégio preparatório Boulder, Dawn se interessa pelo clube de canto. Enquanto isso, seus irmãos procuram alguém para ser cobaia de um trabalho sobre comportamento humano(n)</desc>
+    <credits>
+      <director>Robbie Countryman</director>
+      <actor>Lizzy Greene</actor>
+      <actor>Casey Simpson</actor>
+      <actor>Mace Coronel</actor>
+      <actor>Aidan Gallagher</actor>
+      <actor>Allison Munn</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Kari Wahlgren(voice)</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217195300 -0300" stop="20190217201700 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Thundermans: Ajuda Errada</title>
+    <desc lang="pt">Quando Phoebe fica sabendo dos planos da banda de Max em dispensá-lo, ela suspeita que seu treinamento de super-herói esteja atrapalhando suas amizades(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217201700 -0300" stop="20190217204100 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Thundermans</title>
+    <desc lang="pt">O que é mais impressionante do que um super-herói? Uma família inteira deles Conheça os Thundermans, uma família não tão comum, cuja preocupação número 1 é manter seus poderes de super-humanos em segredo(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217204100 -0300" stop="20190217210500 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Esquadrão de Cavaleiros: Um Cavaleiro No Dia da Armadura Brilhante</title>
+    <desc lang="pt">É obrigação do Esquadrão Fênix organizar o tradicional banquete do Dia da Armadura. Arc precisa da ajuda da Ciara para não errar as tradições e se denunciar como alguém que não seja um nobre(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Lexi DiBenedetto</actor>
+      <actor>Amarr M. Wooten</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Savannah May</actor>
+      <actor>Daniella Perkins</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217210500 -0300" stop="20190217212900 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Esquadrão de Cavaleiros: A estreia do Cavaleiro</title>
+    <desc lang="pt">Uma princesa rebelde e um alegre viajante partilham um segredo. A criação de outra identidade para irem à Escola de Cavaleiros(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Lexi DiBenedetto</actor>
+      <actor>Amarr M. Wooten</actor>
+      <actor>Owen Joyner</actor>
+      <actor>Savannah May</actor>
+      <actor>Daniella Perkins</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217212900 -0300" stop="20190217215300 -0300" channel="NICKELODEON HD">
+    <title lang="pt">iCarly: A Batalha dos Irmãos</title>
+    <desc lang="pt">Spencer tem um novo inimigo - o irmão mais novo e perigoso de Chuck, o Chip Enquanto isso, Freddie conserta a arma laser de brinquedo do Gibby e a deixa com um poder que ele nunca imaginou(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+      <actor>Jacob Bertrand</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217215300 -0300" stop="20190217221700 -0300" channel="NICKELODEON HD">
+    <title lang="pt">iCarly: A Expulsão</title>
+    <desc lang="pt">Quando Carly proíbe Costela de usar o loft por que ele nocauteou seu par de encontro com uma lançador de limão, ela fica proibida de ir ao Vitamina da hora(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Jennette McCurdy</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217221700 -0300" stop="20190217224200 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Sam &amp; Cat: Pegamos um Astro do Rock</title>
+    <desc lang="pt">Quando Sam e Cat derrubam sem querer o músico Del DeVille, as coisas rapidamente saem de controle, enquanto elas tentam não arranjar encrenca(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Jennette McCurdy</actor>
+      <actor>Ariana Grande</actor>
+      <actor>Cameron Ocasio</actor>
+      <actor>Myko Olivier</actor>
+      <actor>Zoran Korach</actor>
+      <actor>Steve Lewis</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217224200 -0300" stop="20190217230600 -0300" channel="NICKELODEON HD">
+    <title lang="pt">Sam &amp; Cat: O Nocaute</title>
+    <desc lang="pt">Quando Sam e Car tentam ajudar Goomer com alguém que zomba dele na academia, Sam acaba nocauteando uma campeã de MMA e rapidamente ela entra para o mundo da luta profissional(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Jennette McCurdy</actor>
+      <actor>Ariana Grande</actor>
+      <actor>Cameron Ocasio</actor>
+      <actor>Jenna Abrams</actor>
+      <actor>Rob Adler</actor>
+      <actor>Rita Angel</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217230600 -0300" stop="20190217233000 -0300" channel="NICKELODEON HD">
+    <title lang="pt">The Thundermans: Ajuda Errada</title>
+    <desc lang="pt">Quando Phoebe fica sabendo dos planos da banda de Max em dispensá-lo, ela suspeita que seu treinamento de super-herói esteja atrapalhando suas amizades(n)</desc>
+    <credits>
+      <director>Trevor Kirschner</director>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Audrey Whitby</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Reagan Fernandez</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216011500 -0200" stop="20190216024500 -0200" channel="FOX HD">
+    <title lang="pt">Os Pequenos Invasores</title>
+    <desc lang="pt">Grupo de crianças, em férias, numa bela casa é obrigado a enfrentar e defender a todos de uma invasão alienígena. O problema é que os invasores estão bem no andar de cima da casa(n)</desc>
+    <credits>
+      <director>John Schultz</director>
+      <actor>Carter Jenkins</actor>
+      <actor>Austin Robert Butler</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Ashley Boettcher</actor>
+      <actor>Henri Young</actor>
+      <actor>Regan Young</actor>
+      <actor>Doris Roberts</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216024500 -0200" stop="20190216042000 -0200" channel="FOX HD">
+    <title lang="pt">Abc do Amor</title>
+    <desc lang="pt">Gabe, um garoto de 10 anos, se apaixona por uma amiga de infância. Quando descobre que ela pode se mudar da cidade, Gabe decide deixar a indecisão de lado e lutar para ficar perto do seu primeiro amor(n)</desc>
+    <credits>
+      <director>Mark Levin</director>
+      <actor>Josh Hutcherson</actor>
+      <actor>Charlie Ray</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Willie Garson</actor>
+      <actor>Tonye Patano</actor>
+      <actor>Josh Pais</actor>
+      <actor>Jonah Meyerson</actor>
+      <actor>Aaron Grady Shaw</actor>
+      <actor>Timothy Adams</actor>
+      <actor>Lynn Chen</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216042000 -0200" stop="20190216060000 -0200" channel="FOX HD">
+    <title lang="pt">Amor Pra Cachorro</title>
+    <desc lang="pt">A vida de uma secretária muda inesperadamente depois que sua cadela morre(n)</desc>
+    <credits>
+      <director>Mike White</director>
+      <actor>Molly Shannon</actor>
+      <actor>Laura Dern</actor>
+      <actor>Regina King</actor>
+      <actor>Thomas McCarthy</actor>
+      <actor>Josh Pais</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Amy Schlagel</actor>
+      <actor>Audrey Wasilewski</actor>
+      <actor>Christy Moore</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216060000 -0200" stop="20190216061500 -0200" channel="FOX HD">
+    <title lang="pt">Furiki Wheels: Dormindo com o Inimigo</title>
+    <desc lang="pt">Andre faz um intercâmbio de habilidades com uma hiena para entender os animais carnívoros. Então, ele deve colocar o seu conhecimento à prova depois de trazer hienas famintas para a Racer School(n)</desc>
+    <credits>
+      <director>Frédéric Martin</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216061500 -0200" stop="20190216063000 -0200" channel="FOX HD">
+    <title lang="pt">Furiki Wheels: A Chave de Macaco</title>
+    <desc lang="pt">Andre tenta surpreender Chobado com um presente no aniversário de amizade deles. Porém, ele perde tudo o que tem para o vigarista Croc. Agora, ele precisa se reconciliar com Crazy Croc(n)</desc>
+    <credits>
+      <director>Frédéric Martin</director>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216063000 -0200" stop="20190216070000 -0200" channel="FOX HD">
+    <title lang="pt">Opa Popa Dupa: Gravidade</title>
+    <desc lang="pt">Elle oferece ajuda a Condorcía para manter uma área do bosque livre de folhas, que não param de cair. Com a ajuda de Monhaha e Flower Power ela entende o que é a força da gravidade(n)</desc>
+    <credits>
+      <director>Andrés Lizarazo</director>
+    </credits>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216070000 -0200" stop="20190216073000 -0200" channel="FOX HD">
+    <title lang="pt">Infomercial</title>
     <desc lang="pt">Indisponível(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217230000 -0300" stop="20190217233000 -0300" channel="BAND">
-    <title lang="pt">Jungle Fighters</title>
-    <desc lang="pt">Os lutadores de MMA (Mixed Martial Arts), reconhecidos como os gladiadores do terceiro milênio, estão cada vez mais competitivos e reconhecidos como os grandes atletas que são(n)</desc>
+  <programme start="20190216073000 -0200" stop="20190216080000 -0200" channel="FOX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
     <rating system="BR">
       <value>0+</value>
     </rating>
   </programme>
-  <programme start="20190217233000 -0300" stop="20190218010000 -0300" channel="BAND">
-    <title lang="pt">Bandsports News</title>
-    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+  <programme start="20190216080000 -0200" stop="20190216083000 -0200" channel="FOX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
     <rating system="BR">
       <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216083000 -0200" stop="20190216090000 -0200" channel="FOX HD">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216090000 -0200" stop="20190216103000 -0200" channel="FOX HD">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Após mentir sobre ter perdido a virgindade, uma inteligente e linda estudante vê sua vida seguir paralelamente com a de Hester Prynne em(n)</desc>
+    <credits>
+      <director>Will Gluck</director>
+      <actor>Emma Stone</actor>
+      <actor>Amanda Bynes</actor>
+      <actor>Dan Byrd</actor>
+      <actor>Thomas Haden Church</actor>
+      <actor>Patricia Clarkson</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216103000 -0200" stop="20190216105500 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">O Dia Multicultural está chegando e Lisa inventa sua própria tradição nativo- americana. Após salvar Springfield de um incêndio, Bart é recompensado com uma carteira de motorista(n)</desc>
+    <credits>
+      <director>Raymond S. Persi</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Natalie Portman</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Karl Wiedergott</actor>
+    </credits>
+    <date>2006</date>
+    <episode-num system="onscreen">S18 E12</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216105500 -0200" stop="20190216112000 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons: Vovô Simpson e seu Neto em</title>
+    <desc lang="pt">O Vovô e o Sr. Burns, os últimos sobreviventes de uma unidade do exército que lutou na Segunda Guerra Mundial, brigam por uma coleção inestimável de objetos de arte escondida em um local secreto(n)</desc>
+    <credits>
+      <director>Jeffrey Lynch</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Russi Taylor</actor>
+      <actor>Marcia WallacePamela Hayden</actor>
+      <actor>Hank Azaria</actor>
+    </credits>
+    <date>1996</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216112000 -0200" stop="20190216114500 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Lisa vai a um acampamento de artistas onde conhece vários integrantes do coral Glee. Enquanto isso, Krusty tem que encarar um julgamento na Corte de Haia, para onde foi atraído sob o pretexto de que receberia o Prêmio Nobel(n)</desc>
+    <credits>
+      <director>Mark Kirkland</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Stephen Hawking</actor>
+      <actor>Jemaine Clement</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S22 E1</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216114500 -0200" stop="20190216121000 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons: Verão Quente</title>
+    <desc lang="pt">Durante as férias de verão com a família, Lisa muda seu estilo para tentar fazer novos amigos(n)</desc>
+    <credits>
+      <director>Mark Kirkland</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Russi Taylor</actor>
+      <actor>Christina Ricci</actor>
+    </credits>
+    <date>1995</date>
+    <episode-num system="onscreen">S7 E25</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216121000 -0200" stop="20190216130000 -0200" channel="FOX HD">
+    <title lang="pt">The Gifted: Monstros</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Janice Cooke</director>
+      <actor>Emma Dumont</actor>
+      <actor>Maxwell Highsmith</actor>
+      <actor>Jonathan Randall Hunter</actor>
+      <actor>Frances Turner</actor>
+      <actor>Joseph Aguado</actor>
+      <actor>Jermaine Rivers</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190216130000 -0200" stop="20190216143000 -0200" channel="FOX HD">
+    <title lang="pt">Cada um na sua Casa</title>
+    <desc lang="pt">Um alienígena na fuga de sua própria raça faz amizade com uma garota. Ele tenta ajudá-la em sua trajetória, mas pode ser uma interferência(n)</desc>
+    <credits>
+      <director>Tim Johnson</director>
+      <actor>Jim Parsons</actor>
+      <actor>Rihanna</actor>
+      <actor>Steve Martin</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Matt Jones</actor>
+      <actor>Brian Stepanek</actor>
+      <actor>Stephen Kearin</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216143000 -0200" stop="20190216160500 -0200" channel="FOX HD">
+    <title lang="pt">Madagascar 3: Os Procurados</title>
+    <desc lang="pt">Os animais de zoológico mais famosos voltaram nesta terceira história mais divertidos do que nunca. Ao tentar chegar em seu lar em Nova York, se juntam a um circo que percorre diversos países e vivem outra cômica aventura(n)</desc>
+    <credits>
+      <director>Eric Darnell</director>
+      <director>Tom McGrath</director>
+      <actor>Vozes de Ben Stiller</actor>
+      <actor>Chris Rock</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Jada Pinkett Smith</actor>
+      <actor>Sacha Baron Cohen</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216160500 -0200" stop="20190216175000 -0200" channel="FOX HD">
+    <title lang="pt">Eragon</title>
+    <desc lang="pt">O adolescente Eragon encontra uma pedra azul que na verdade é um precioso ovo de dragão, dele nasce a fêma Saphira. Com a ajuda de um contador de histórias ele tentará salvar o reino dos dragões controlado pelo vilão Galbatorix(n)</desc>
+    <credits>
+      <director>Stefen Fangmeier</director>
+      <actor>Edward Speleers</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Sienna Guillory</actor>
+      <actor>Robert Carlyle</actor>
+      <actor>John Malkovich</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Alun Armstrong</actor>
+      <actor>Christopher Egan</actor>
+      <actor>Gary Lewis</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Steve Speirs</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216175000 -0200" stop="20190216200000 -0200" channel="FOX HD">
+    <title lang="pt">O Lar das Crianças Peculiares</title>
+    <desc lang="pt">Após a morte de seu avô, Jake parte com seu pai para o País de Gales. Ele pretende encontrar a srta. Peregrine. Ao chegar na casa dela, Jake descobre que lá há uma fenda temporal(n)</desc>
+    <credits>
+      <director>Tim Burton</director>
+      <actor>Eva Green</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Judi Dench</actor>
+      <actor>Rupert Everett</actor>
+      <actor>Allison Janney</actor>
+      <actor>Chris O'Dowd</actor>
+      <actor>Terence Stamp</actor>
+      <actor>Ella Purnell</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216200000 -0200" stop="20190216221000 -0200" channel="FOX HD">
+    <title lang="pt">X-Men: Dias de um Futuro Esquecido</title>
+    <desc lang="pt">Em um futuro onde máquinas foram desenvolvidas para destruir a raça mutante, Wolverine é enviado ao passado, para a década de 1970. Lá, ele precisa encontrar os jovens Professor Xavier, Magneto e Mística(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>Hugh Jackman</actor>
+      <actor>James McAvoy</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Patrick Stewart</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Nicholas Hoult</actor>
+      <actor>Ellen Page</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216221000 -0200" stop="20190217003000 -0200" channel="FOX HD">
+    <title lang="pt">X-Men: Apocalipse</title>
+    <desc lang="pt">Após milhares da anos, Apocalypse volta à vida disposto a garantir sua supremacia e acabar com a humanidade. Ele seleciona quatro Cavaleiros nas figuras de Magneto, Psylocke, Anjo e Tempestade(n)</desc>
+    <credits>
+      <director>Bryan Singer</director>
+      <actor>James McAvoy</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Nicholas Hoult</actor>
+      <actor>Oscar Isaac</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Evan Peters</actor>
+      <actor>Josh Helman</actor>
+      <actor>Alexandra Shipp</actor>
+      <actor>Ben Hardy</actor>
+      <actor>Olivia Munn</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217003000 -0200" stop="20190217020500 -0200" channel="FOX HD">
+    <title lang="pt">Elektra</title>
+    <desc lang="pt">Torturada pelo passado, Elektra é obcecada por sua morte e seu misterioso renascimento. A morte de seus pais faz com que ela tenha uma fúria incontrolável. Sua ânsia por vingança a torna uma assassina profissional(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Jennifer Garner</actor>
+      <actor>Terence Stamp</actor>
+      <actor>Will Yun Lee</actor>
+      <actor>Goran Visnjic</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Kirsten Prout</actor>
+      <actor>Natassia Malthe</actor>
+      <actor>Chris Ackerman</actor>
+      <actor>Colin Cunningham</actor>
+      <actor>Kurt Max Runte</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190217020500 -0200" stop="20190217033500 -0200" channel="FOX HD">
+    <title lang="pt">Zoom - Academia de Super-Heróis</title>
+    <desc lang="pt">Jack, conhecido como Capitão Zoom, é um super-herói que perdeu seus poderes. Sua nova missão é treinar quatro meninos para que aprendam a usar suas habilidades especiais e possam, assim, salvar o mundo de um perigo iminente(n)</desc>
+    <credits>
+      <director>Peter Hewitt</director>
+      <actor>Rip Torn</actor>
+      <actor>Tim Allen</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Chevy Chase</actor>
+      <actor>Spencer Breslin</actor>
+      <actor>Kevin Zegers</actor>
+      <actor>Kate Mara</actor>
+      <actor>Ryan Newman</actor>
+      <actor>Cornelia Guest</actor>
+      <actor>Thomas F. Wilson</actor>
+      <actor>Ridge Canipe</actor>
+      <actor>Michael Cassidy</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217033500 -0200" stop="20190217053500 -0200" channel="FOX HD">
+    <title lang="pt">Stardust - O Mistério da Estrela</title>
+    <desc lang="pt">Um jovem promete à sua amada buscar uma estrela cadente que caiu em um reino mágico. Em sua jornada ele irá se deparar com piratas, seres bizarros e uma bruxa malévola que se esconde por detrás de uma bela mulher(n)</desc>
+    <credits>
+      <director>Matthew Vaughn</director>
+      <actor>Charlie Cox</actor>
+      <actor>Claire Danes</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Sienna Miller</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Jason Flemyng</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Peter O'Toole</actor>
+      <actor>Ricky Gervais</actor>
+      <actor>Henry Cavill</actor>
+    </credits>
+    <date>2007</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217053500 -0200" stop="20190217060000 -0200" channel="FOX HD">
+    <title lang="pt">Futurama</title>
+    <desc lang="pt">Bender fica com ciúmes quando Fry tenta clonar seu amado cão fossilizado(n)</desc>
+    <credits>
+      <director>Swinton O. Scott III</director>
+      <actor>Vozes Billy West</actor>
+      <actor>John Di Maggio</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Katey Sagal</actor>
+      <actor>Maurice LaMarche</actor>
+      <actor>David Herman</actor>
+      <actor>Lauren Tom</actor>
+      <actor>Frank Welker</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Kath Soucie</actor>
+    </credits>
+    <date>2002</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217060000 -0200" stop="20190217073000 -0200" channel="FOX HD">
+    <title lang="pt">Noivas em Guerra</title>
+    <desc lang="pt">Duas amigas entram em guerra quando seus casamentos são marcados, acidentalmente, para a mesma data. Isto faz com que elas disputem um local para a cerimônia, sonhado por ambas(n)</desc>
+    <credits>
+      <director>Gary Winick</director>
+      <actor>Kate Hudson</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Kristen Johnson</actor>
+      <actor>Bryan Greenberg</actor>
+      <actor>Chris Pratt</actor>
+      <actor>Steve Howey</actor>
+      <actor>Candice Bergen</actor>
+      <actor>Kristen Johnston</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217073000 -0200" stop="20190217092000 -0200" channel="FOX HD">
+    <title lang="pt">Sob o Mesmo Céu</title>
+    <desc lang="pt">Após fracassar em uma missão, o militar Brian Gilcrest é enviado de volta para o Havaí, sua terra natal, para supervisionar o lançamento de um satélite(n)</desc>
+    <credits>
+      <director>Cameron Crowe</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Emma Stone</actor>
+      <actor>Rachel McAdams</actor>
+      <actor>Bill Murray</actor>
+      <actor>John Krasinski</actor>
+      <actor>Danny McBride</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Bill Camp</actor>
+      <actor>Jaeden Lieberher</actor>
+      <actor>Danielle Rose Russell</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217092000 -0200" stop="20190217111500 -0200" channel="FOX HD">
+    <title lang="pt">Vestida para Casar</title>
+    <desc lang="pt">Depois de ter sido dama-de-honra 27 vezes, uma jovem reluta em participar do casamento de sua irmã com o homem por quem está secretamente apaixonada(n)</desc>
+    <credits>
+      <director>Anne Fletcher</director>
+      <actor>Brian Kerwin</actor>
+      <actor>Charli Barcena</actor>
+      <actor>Peyton List</actor>
+      <actor>Jane Pfitsch</actor>
+      <actor>Alexa Gerasimovich</actor>
+      <actor>Katherine Heigl</actor>
+      <actor>Jennifer Lim</actor>
+      <actor>Krysten Ritter</actor>
+      <actor>Brigitte Bourdeau</actor>
+      <actor>Judy Greer</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190217111500 -0200" stop="20190217114000 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Mother Simpson é capturada pela polícia e levada a julgamento acusada de sabotagem na fabrica indústria bélica do Sr. Burn nos anos 60. O sincero testemunho de Homer ajuda a obter sua libertação(n)</desc>
+    <credits>
+      <director>Nancy Kruse</director>
+      <actor>Vozes de Nancy Cartwright</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Glenn Close</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Karl Wiedergott</actor>
+    </credits>
+    <date>2003</date>
+    <episode-num system="onscreen">S15 E2</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217114000 -0200" stop="20190217120500 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Lisa tem uma crise de identidade quando Maggie se mostra mais inteligente do que ela(n)</desc>
+    <credits>
+      <director>Steven Dean Moore</director>
+      <actor>Vozes de Nancy Cartwright</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Simon Cowell</actor>
+      <actor>Karl Wiedergott</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Pamela Hayden</actor>
+    </credits>
+    <date>2004</date>
+    <episode-num system="onscreen">S15 E13</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217120500 -0200" stop="20190217123000 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons: O Substituto</title>
+    <desc lang="pt">Homer assume o cargo de assistente do Sr. Burns durante as férias de Smithers(n)</desc>
+    <credits>
+      <director>Steven Dean Moore</director>
+      <actor>Vozes de Nancy Cartwright</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Harry Shearer</actor>
+    </credits>
+    <date>1996</date>
+    <episode-num system="onscreen">S7 E17</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217123000 -0200" stop="20190217125500 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons: Papai Furioso - o Filme</title>
+    <desc lang="pt">O desenho do Angry Dad de Bart se torna um filme e vira um sucesso de críticas. Cada vez que o filme ganha alguma coisa, Homer leva os créditos(n)</desc>
+    <credits>
+      <director>Matthew Nastuk</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Halle Berry</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S22 E14</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217125500 -0200" stop="20190217132000 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Marge adquire com facilidade o espírito natalino, algo que se mostra um pouco mais difícil para o resto da família. Quando os Simpsons vão dormir antes da manhã de Natal, cada uma das crianças tem um sonho ligado ao Natal(n)</desc>
+    <credits>
+      <director>Bob Anderson</director>
+      <actor>Vozes de Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Gregg Berger</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S22 E7</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217132000 -0200" stop="20190217134500 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons: O Amigo de Bart se Apaixona</title>
+    <desc lang="pt">Bart fica com ciúmes quando Milhouse se apaixona por uma garota que foi transferida para sua escola(n)</desc>
+    <credits>
+      <director>Jim Reardon</director>
+      <actor>Vozes de Nancy Cartwright</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Harry Shearer</actor>
+      <actor>Maggie Roswell</actor>
+      <actor>Frank Welker</actor>
+    </credits>
+    <date>1992</date>
+    <episode-num system="onscreen">S3 E23</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217134500 -0200" stop="20190217141000 -0200" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Troy McClure apresenta três versões do programa de TV dos Simpsons(n)</desc>
+    <credits>
+      <director>Dominic Polcino</director>
+      <actor>Vozes de Julie Kavner</actor>
+      <actor>Pamela Hayden</actor>
+      <actor>Dan Castellaneta</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Frank Welker</actor>
+      <actor>Tress MacNeille</actor>
+      <actor>Yeardley Smith</actor>
+      <actor>Hank Azaria</actor>
+      <actor>Harry Shearer</actor>
+    </credits>
+    <date>1997</date>
+    <episode-num system="onscreen">S8 E20</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190217141000 -0200" stop="20190217155000 -0200" channel="FOX HD">
+    <title lang="pt">Elektra</title>
+    <desc lang="pt">Torturada pelo passado, Elektra é obcecada por sua morte e seu misterioso renascimento. A morte de seus pais faz com que ela tenha uma fúria incontrolável. Sua ânsia por vingança a torna uma assassina profissional(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Jennifer Garner</actor>
+      <actor>Terence Stamp</actor>
+      <actor>Will Yun Lee</actor>
+      <actor>Goran Visnjic</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Kirsten Prout</actor>
+      <actor>Natassia Malthe</actor>
+      <actor>Chris Ackerman</actor>
+      <actor>Colin Cunningham</actor>
+      <actor>Kurt Max Runte</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190217155000 -0200" stop="20190217171500 -0200" channel="FOX HD">
+    <title lang="pt">Com as Próprias Mãos</title>
+    <desc lang="pt">Soldado aposentado das Forças Especiais do exército americano retorna para sua cidade natal com a intenção de reatar antigos laços e iniciar uma nova vida, porém a cidade não é mais a mesma, pois é controlada pelo crime(n)</desc>
+    <credits>
+      <director>Kevin Bray</director>
+      <actor>Johnny Knoxville</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Kristen Wilson</actor>
+      <actor>Ashley Scott</actor>
+      <actor>The Rock</actor>
+      <actor>Kleo Thomas</actor>
+      <actor>Barbara Tarbuck</actor>
+      <actor>Michael Bowen</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190217171500 -0200" stop="20190217192500 -0200" channel="FOX HD">
+    <title lang="pt">Kingsman: Serviço Secreto</title>
+    <desc lang="pt">Eggsy é um jovem com problemas de disciplina que parece perto de se tornar um criminoso. Determinado dia, ele entra em contato com Harry, que lhe apresenta à agência de espionagem Kingsman(n)</desc>
+    <credits>
+      <director>Matthew Vaughn</director>
+      <actor>Colin Firth</actor>
+      <actor>Taron Egerton</actor>
+      <actor>Samuel L. Jackson. Adrian Quinton</actor>
+      <actor>Mark Strong</actor>
+      <actor>Jonno Davies</actor>
+      <actor>Jack Davenport</actor>
+      <actor>Sofia Boutella</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190217192500 -0200" stop="20190217214000 -0200" channel="FOX HD">
+    <title lang="pt">O Ataque</title>
+    <desc lang="pt">A Casa Branca foi atacada por terroristas. Agora, com o governo da nação caindo no caos, o policial John Cale terá a responsabilidade de salvar o presidente, o país e sua filha(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Channing Tatum</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>James Woods</actor>
+      <actor>Nicolas Wright</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>Michael Murphy</actor>
+      <actor>Rachelle Lefevre</actor>
+      <actor>Lance Reddick</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190217214000 -0200" stop="20190217223000 -0200" channel="FOX HD">
+    <title lang="pt">The Walking Dead: Adaptação</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Rosemary Rodriguez</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S9 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190217223000 -0200" stop="20190217233000 -0200" channel="FOX HD">
+    <title lang="pt">The Walking Dead: Omega</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <credits>
+      <director>Rosemary Rodriguez</director>
+      <actor>Andrew Lincoln</actor>
+      <actor>Norman Reedus</actor>
+      <actor>Lauren Cohan</actor>
+      <actor>Lennie James</actor>
+      <actor>Melissa McBride</actor>
+      <actor>Sonequa Martin-Green</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <rating system="BR">
+      <value>13+</value>
     </rating>
   </programme>
 </tv>
