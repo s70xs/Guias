@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190216000000 +0000" stop="20190216235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190217000000 +0000" stop="20190217235900 +0000" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190216001500 -0200" stop="20190216002000 -0200" channel="BAND">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216002000 -0200" stop="20190216012000 -0200" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216012000 -0200" stop="20190216020000 -0200" channel="BAND">
+    <title lang="pt">Efeito Carbonaro</title>
+    <desc lang="pt">A atração mostra o ilusionista Michael Carbonaro pregando peças criativas e obtendo reações inesperadas(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216020000 -0200" stop="20190216033000 -0200" channel="BAND">
+    <title lang="pt">Jogo Aberto - Reapresentação</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216033000 -0200" stop="20190216042000 -0200" channel="BAND">
+    <title lang="pt">Os Donos da Bola - Reapresentação</title>
+    <desc lang="pt">O craque Neto comanda o programa mais bem-humorado sobre o mundo do futebol. Ele e seus convidados tem uma meta: descobrir quem é o do dono da bola(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216042000 -0200" stop="20190216043500 -0200" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <desc lang="pt">Revista diária com as notícias mais comentadas na cena cultural e artística, os principais assuntos das redes sociais, os bastidores da Band, curiosidades e vídeos da internet. Informação com descontração(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216043500 -0200" stop="20190216050000 -0200" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">As melhores pegadinhas da tv, no formato clássico de câmeras escondidas, brincando com as pessoas que passam nas ruas, praças e centros comerciais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216050000 -0200" stop="20190216060000 -0200" channel="BAND">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216060000 -0200" stop="20190216063000 -0200" channel="BAND">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216063000 -0200" stop="20190216070000 -0200" channel="BAND">
+    <title lang="pt">Somos Agro</title>
+    <desc lang="pt">O programa valoriza o trabalho de quem planta e cria e ressalta a importância do agronegócio na vida do cidadão brasileiro. campo no presente e no futuro(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216070000 -0200" stop="20190216073000 -0200" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Revista semanal sobre todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216073000 -0200" stop="20190216080000 -0200" channel="BAND">
+    <title lang="pt">Resenha</title>
+    <desc lang="pt">Um papo descontraído com grandes nomes do futebol brasileiro. Uma análise do atual panorama no mundo da chuteiras e muitas histórias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216080000 -0200" stop="20190216083000 -0200" channel="BAND">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216083000 -0200" stop="20190216090000 -0200" channel="BAND">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216090000 -0200" stop="20190216093000 -0200" channel="BAND">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216093000 -0200" stop="20190216100000 -0200" channel="BAND">
+    <title lang="pt">Giro Business</title>
+    <desc lang="pt">O programa tem como objetivo mostrar o mundo empresarial de uma forma acessível ao telespectador. A cada programa, entrevista com um nome de destaque, mostrando in loco como é a gestão de um líder profissional(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216100000 -0200" stop="20190216103000 -0200" channel="BAND">
+    <title lang="pt">Ponto a Ponto</title>
+    <desc lang="pt">Em debate os temas mais importantes da política e do setor público na atualidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216103000 -0200" stop="20190216110000 -0200" channel="BAND">
+    <title lang="pt">Capital Natural</title>
+    <desc lang="pt">Um debate que registra as mudanças que ocorrem na sociedade em direção ao desenvolvimento sustentável(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216110000 -0200" stop="20190216113000 -0200" channel="BAND">
+    <title lang="pt">Guia da Facu</title>
+    <desc lang="pt">Informação, conhecimento e prestação de serviço através de uma série de matérias, quadros e depoimentos que desvendam e simplificam o mercado de educação e trabalho(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216113000 -0200" stop="20190216114500 -0200" channel="BAND">
+    <title lang="pt">Verdade &amp; Vida</title>
+    <desc lang="pt">Um programa da Igreja Presbiteriana do Brasil dedicado à reflexão e à inspiração para a vida(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216114500 -0200" stop="20190216123000 -0200" channel="BAND">
+    <title lang="pt">Efeito Carbonaro</title>
+    <desc lang="pt">A atração mostra o ilusionista Michael Carbonaro pregando peças criativas e obtendo reações inesperadas(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20190216123000 -0200" stop="20190216150000 -0200" channel="BAND">
+    <title lang="pt">Jogos das Estrelas: NBB Brasil x NBB Mundo</title>
+    <desc lang="pt">O principal torneio de basquete do Brasil(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216150000 -0200" stop="20190216175000 -0200" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com prioridade para os temas do cotidiano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216175000 -0200" stop="20190216182000 -0200" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216182000 -0200" stop="20190216192500 -0200" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216192500 -0200" stop="20190216201000 -0200" channel="BAND">
+    <title lang="pt">Minha Vida</title>
+    <desc lang="pt">Ates aparece para se despedir da Bahar e pede desculpas. Efsun chega no trabalho da Secil e a amiga apresenta o rapaz, Necati é o homem. Sakine estapeia Seçil, por ter se encontrado com Necati(n)</desc>
+    <credits>
+      <director>Merve Girgin</director>
+      <actor>Ezgi Asaroblu</actor>
+      <actor>Ceren Moray</actor>
+      <actor>Kerem Cem</actor>
+      <actor>Oya Bazar</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">E99</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20190216201000 -0200" stop="20190216210000 -0200" channel="BAND">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216210000 -0200" stop="20190216210500 -0200" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216210500 -0200" stop="20190216213000 -0200" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <desc lang="pt">Revista diária com as notícias mais comentadas na cena cultural e artística, os principais assuntos das redes sociais, os bastidores da Band, curiosidades e vídeos da internet. Informação com descontração(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190216213000 -0200" stop="20190216222000 -0200" channel="BAND">
+    <title lang="pt">Justiça Implacável</title>
+    <desc lang="pt">Elijah Kane é o líder de um grupo de agentes especiais da polícia, encarregado que tirar de circulação os principais criminosos de Seatle. Mesmo com métodos nem sempre usuais(n)</desc>
+    <credits>
+      <director>Wayne Rose</director>
+      <actor>Steven Seagal</actor>
+      <actor>Sarah Lind</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20190216222000 -0200" stop="20190217000000 -0300" channel="BAND">
+    <title lang="pt">Cine+ Reféns</title>
+    <desc lang="pt">Kyle e Sarah são casados e vivem em uma elegante e confortável casa ao lado da filha, Avery. A vida deles segue sem problemas, até a casa ser invadida e o trio ser mantido refém por criminosos(n)</desc>
+    <credits>
+      <director>Joel Schumacher</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Ben Mendelsohn</actor>
+      <actor>Liana Liberato</actor>
+      <actor>Jordana</actor>
+      <actor>David Maldonado</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20190217003000 -0300" stop="20190217010000 -0300" channel="BAND">
+    <title lang="pt">Mini Doc. Bandsports</title>
+    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217010000 -0300" stop="20190217030000 -0300" channel="BAND">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada)(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217030000 -0300" stop="20190217040000 -0300" channel="BAND">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217040000 -0300" stop="20190217041500 -0300" channel="BAND">
+    <title lang="pt">Gol - O Grande Momento do Futebol</title>
+    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217041500 -0300" stop="20190217043000 -0300" channel="BAND">
+    <title lang="pt">Sacada do Saretta</title>
+    <desc lang="pt">Programa semanal com Flavio Saretta, sempre com um assunto diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217043000 -0300" stop="20190217050000 -0300" channel="BAND">
+    <title lang="pt">Poker Night</title>
+    <desc lang="pt">Entrevistas e matérias sobre o estilo de vida dos jogadores de poker e um giro com as notícias do poker brasileiro e mundial(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217050000 -0300" stop="20190217070000 -0300" channel="BAND">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217070000 -0300" stop="20190217071500 -0300" channel="BAND">
+    <title lang="pt">Gol - O Grande Momento do Futebol</title>
+    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217071500 -0300" stop="20190217073000 -0300" channel="BAND">
+    <title lang="pt">Sacada do Saretta</title>
+    <desc lang="pt">Programa semanal com Flavio Saretta, sempre com um assunto diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217073000 -0300" stop="20190217080000 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Fernando Fernandes bate um papo descontraído com jogadores de futebol do passado e da atualidade trazendo à tona histórias da carreira, vida pessoal e curiosidades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217080000 -0300" stop="20190217100000 -0300" channel="BAND">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada)(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217100000 -0300" stop="20190217110000 -0300" channel="BAND">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217110000 -0300" stop="20190217113000 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Fernando Fernandes bate um papo descontraído com jogadores de futebol do passado e da atualidade trazendo à tona histórias da carreira, vida pessoal e curiosidades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217113000 -0300" stop="20190217120000 -0300" channel="BAND">
+    <title lang="pt">Gol - O Grande Momento do Futebol</title>
+    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217120000 -0300" stop="20190217130000 -0300" channel="BAND">
+    <title lang="pt">Vila Bandsports</title>
+    <desc lang="pt">Programa para falar sobre todos os esportes. Elia Junior entrevista grandes nomes do esporte brasileiro. Natação, Ginástica, Judo, Atletismo, enfim, modalidades em que o Brasil é rico em talentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217130000 -0300" stop="20190217150000 -0300" channel="BAND">
+    <title lang="pt">Baita Amigos</title>
+    <desc lang="pt">O craque Neto e amigos debatem o futebol do Brasil. Todas as segundas (pós rodada) e sextas (previa da rodada)(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217150000 -0300" stop="20190217160000 -0300" channel="BAND">
+    <title lang="pt">Doc. Bandsports</title>
+    <desc lang="pt">Todos os domingos, o jornalista Nivaldo de Cillo recebe um importante personagem do esporte Brasileiro. Personagens que tem história para contar, conquistas, experiências. DOC.Bandsports é feito para quem ama o esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217160000 -0300" stop="20190217163000 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Fernando Fernandes bate um papo descontraído com jogadores de futebol do passado e da atualidade trazendo à tona histórias da carreira, vida pessoal e curiosidades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217163000 -0300" stop="20190217164500 -0300" channel="BAND">
+    <title lang="pt">Gol - O Grande Momento do Futebol</title>
+    <desc lang="pt">O Grupo Bandeirantes tem o maior arquivo do futebol da TV Brasileira. Então, nada melhor que mostrar grandes lances, gols, jogadas do nosso passado. Grandes times, enormes conquistas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217164500 -0300" stop="20190217170000 -0300" channel="BAND">
+    <title lang="pt">Sacada do Saretta</title>
+    <desc lang="pt">Programa semanal com Flavio Saretta, sempre com um assunto diferente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217170000 -0300" stop="20190217180000 -0300" channel="BAND">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217180000 -0300" stop="20190217190000 -0300" channel="BAND">
+    <title lang="pt">PBR - Bull Riders</title>
+    <desc lang="pt">Competições internacionais de montaria em touros(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217190000 -0300" stop="20190217200000 -0300" channel="BAND">
+    <title lang="pt">Vila Bandsports</title>
+    <desc lang="pt">Programa para falar sobre todos os esportes. Elia Junior entrevista grandes nomes do esporte brasileiro. Natação, Ginástica, Judo, Atletismo, enfim, modalidades em que o Brasil é rico em talentos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217200000 -0300" stop="20190217210000 -0300" channel="BAND">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217210000 -0300" stop="20190217230000 -0300" channel="BAND">
+    <title lang="pt">NBB: Jogo das Estrelas</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217230000 -0300" stop="20190217233000 -0300" channel="BAND">
+    <title lang="pt">Jungle Fighters</title>
+    <desc lang="pt">Os lutadores de MMA (Mixed Martial Arts), reconhecidos como os gladiadores do terceiro milênio, estão cada vez mais competitivos e reconhecidos como os grandes atletas que são(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190217233000 -0300" stop="20190218010000 -0300" channel="BAND">
+    <title lang="pt">Bandsports News</title>
+    <desc lang="pt">Logo depois, ao meio dia, mais informação para o assinante Bandsports. Com uma mistura de telejornal e debate, o News 1 passa a limpo o esporte e discute o futebol. Informação, jornalismo, prioridades(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
